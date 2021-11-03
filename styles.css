@@ -409,4 +409,7 @@ h2 {
         flex-direction: column;
         align-items: start!important;
     }
+    .section {
+        margin: 35px;
+    }
 }
